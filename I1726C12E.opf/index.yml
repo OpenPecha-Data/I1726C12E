@@ -1,0 +1,11 @@
+id: b306bade5bda4f2e9cf28605f0fa0ad5
+annotation_type: index
+revision: '00001'
+annotations:
+  aff891edea2840989caecdaf9931d592:
+    base: B9D8.txt
+    Chapters:
+    - title: ''
+      span:
+        start: 0
+        end: 21834

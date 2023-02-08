@@ -1,0 +1,16 @@
+id: I1726C12E
+default_language: en
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 15:01:01.027991
+last_modified: 2023-02-08 15:01:01.028104
+source_metadata:
+  title: 'BA: Daśabhūmikasūtra'
+  language: en
+bases:
+  B9D8:
+    base_file: B9D8.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
